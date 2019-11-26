@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+}
+
+.wrapper{
+    margin: 0 auto;
+    width: 1000px;
+background-colour: blue,
+nav {
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+}
+ul {
+    margin-left: 0px;
+}
+

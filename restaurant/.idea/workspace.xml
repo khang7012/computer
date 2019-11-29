@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07b5fa49-dc18-4d1f-8725-e61eefe73375" name="Default Changelist" comment="" />
+    <list default="true" id="5be0847e-2341-4e9f-91e6-b3ca6076a7b0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="layout practce" />
+    <favorites_list name="restaurant" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1UBuTMdDBf2PWP8A1K0iNmWVsPv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1U9BbTCFAOPtobmjTuQabA78Yxh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,7 +28,6 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="ServiceViewManager">
@@ -52,23 +47,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="07b5fa49-dc18-4d1f-8725-e61eefe73375" name="Default Changelist" comment="" />
-      <created>1574842316888</created>
+      <changelist id="5be0847e-2341-4e9f-91e6-b3ca6076a7b0" name="Default Changelist" comment="" />
+      <created>1574759001365</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574842316888</updated>
-      <workItem from="1574842319791" duration="12197000" />
-      <workItem from="1575013647741" duration="313000" />
+      <updated>1574759001365</updated>
+      <workItem from="1574759002750" duration="16948000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1574960560795">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1574960560795" />
   </component>
 </project>

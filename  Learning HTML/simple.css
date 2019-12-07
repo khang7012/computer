@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: lightsalmon;
+
+}
+
+nav {
+    width: 100%;
+    height: 100px;
+    background-color: white;
+}
+l{
+    margin-left: 00px;
+
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+    float: left;
+    line-height: 100px;
+
+}
+ul li a{
+    display: block;
+    text-decoration:none;
+    font-size: 024px;
+    font-family: "Times New Roman";
+    color: #1e1e1e;
+    padding-left: 050px;
+}
+ul li a:hover {
+    color: yellow;
+}
+P {
+    font-size: 30px;
+    font-family: Arial;
+}
+

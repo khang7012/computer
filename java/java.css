@@ -24,6 +24,11 @@ nav img {
     margin: 0 auto;
     padding-top: 30px;
 }
+nav ul{
+    padding-left: 30px;
+    padding-top: 60px;
+}
+
 nav ul li {
     list-style-type: none;
     padding: 4px 0px;
@@ -32,12 +37,12 @@ nav ul li a {
     font-family: Arial;
     font-weight: 300;
     color: black;
-    text-decoration: underline;
+    text-transform: uppercase;
 }
 #toggleMenu {
     width: 20px;
     height: 20px;
-
+background-color: brown;
 background-image: url("images/nike'.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -46,11 +51,11 @@ background-image: url("images/nike'.jpg");
     left: 0px;
     z-index: 1050;
     cursor: pointer;
-    border: 10px solid #ffffff;
+    border: 10px solid #fff;
     border-radius: 2px;
     transition: all ease-in-out 200ms;
     -webkit-transition: all ease-in-out 200ms;
 }
 #toggleMenu:hover {
-    opacity: 0.7;
+    opacity: 0.7
 }

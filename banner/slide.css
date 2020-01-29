@@ -24,19 +24,19 @@ body{
     -o-transition: all ease-in-out 500ms;
 }
 .main-banner #imgban3 {
-    background-image: url("imges/city.jpg") ;
+    background-image: url("imges/hinh2.jpg") ;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .main-banner #imgban2 {
-    background-image: url("imges/countryside.jpg") ;
+    background-image: url("imges/poke.jpg") ;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 .main-banner #imgban1 {
-    background-image: url("imges/home.jpg") ;
+    background-image: url("imges/poke 12.jpg") ;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

@@ -10,9 +10,9 @@ if(isset($_POST['btn'])) {
     } elseif ($calc == "2") {
         $smg =  'h1'.$result = $num1 - $num2.'</h1>';
     } elseif ($calc == "3") {
-        $smg = '<h1>'.$result = $num1 * $num2.'</h1>'
+        $smg = '<h1>'.$result = $num1 * $num2.'</h1>';
     } elseif ($calc == "4") {
-        $smg = '<h1>'.$result = $num1 / $num2.'</h1>'
+        $smg = '<h1>'.$result = $num1 / $num2.'</h1>';
     }
 }
 ?>
@@ -21,6 +21,7 @@ if(isset($_POST['btn'])) {
 <head>
     <meta charset="UTF-8">
     <title></title>
+    <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
 <form>
@@ -29,10 +30,10 @@ if(isset($_POST['btn'])) {
     <input type="text" name="num2" placeholder="Number 2">
 
     <select name="operator" title="khang">
-        <option>None</option>
-        <option>Subtract</option>
-        <option>Add</option>
-        <option>Multiply</option>
+        <option> * </option>
+        <option> - </option>
+        <option> + </option>
+        <option> / </option>
         <option>Divide</option>
     </select>
     <br>
